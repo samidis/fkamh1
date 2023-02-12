@@ -35,7 +35,7 @@ $(`<style>
     float: right;
 }
 .nosel.d-flex.room.r185d08ffe1dx3098b956-x-7wmozy {
-    background-image: url(https://up6.cc/2023/02/16762224492381.gif);
+    background-image: url(https://up6.cc/2023/02/167622451690451.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
